@@ -1,1 +1,1 @@
-# viewable_projects
+This is my public portfolio of projects I have worked on as I build my data science skillset. Most of these were from Coursera data science courses, projects I have done toward my MBA at LSUS, and other independent studies I have undertaken for my own curiosity.
